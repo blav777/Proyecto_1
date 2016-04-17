@@ -1,2 +1,2 @@
 # Proyecto_1
-Primer Proyecto de Android
+Primer Proyecto de Android.
